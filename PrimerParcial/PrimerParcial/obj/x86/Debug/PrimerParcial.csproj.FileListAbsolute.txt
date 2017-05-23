@@ -1,0 +1,4 @@
+c:\users\umantram\documents\visual studio 2010\Projects\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+c:\users\umantram\documents\visual studio 2010\Projects\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+c:\users\umantram\documents\visual studio 2010\Projects\PrimerParcial\PrimerParcial\obj\x86\Debug\PrimerParcial.exe
+c:\users\umantram\documents\visual studio 2010\Projects\PrimerParcial\PrimerParcial\obj\x86\Debug\PrimerParcial.pdb

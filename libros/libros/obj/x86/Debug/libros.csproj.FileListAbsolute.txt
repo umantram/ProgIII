@@ -1,0 +1,4 @@
+c:\users\umantram\documents\visual studio 2010\Projects\libros\libros\bin\Debug\libros.exe
+c:\users\umantram\documents\visual studio 2010\Projects\libros\libros\bin\Debug\libros.pdb
+c:\users\umantram\documents\visual studio 2010\Projects\libros\libros\obj\x86\Debug\libros.exe
+c:\users\umantram\documents\visual studio 2010\Projects\libros\libros\obj\x86\Debug\libros.pdb
