@@ -1,0 +1,6 @@
+c:\users\netumantram\documents\visual studio 2010\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+c:\users\netumantram\documents\visual studio 2010\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+c:\users\netumantram\documents\visual studio 2010\Projects\Ahorcado\Ahorcado\bin\Debug\AhorcadoPalabras.dll
+c:\users\netumantram\documents\visual studio 2010\Projects\Ahorcado\Ahorcado\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\netumantram\documents\visual studio 2010\Projects\Ahorcado\Ahorcado\obj\x86\Debug\Ahorcado.exe
+c:\users\netumantram\documents\visual studio 2010\Projects\Ahorcado\Ahorcado\obj\x86\Debug\Ahorcado.pdb
