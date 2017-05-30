@@ -1,0 +1,7 @@
+c:\users\umantram\documents\visual studio 2010\Projects\conexionBaseDatos\conexionBaseDatos\obj\x86\Debug\conexionBaseDatos.Properties.Resources.resources
+c:\users\umantram\documents\visual studio 2010\Projects\conexionBaseDatos\conexionBaseDatos\obj\x86\Debug\conexionBaseDatos.csproj.GenerateResource.Cache
+c:\users\umantram\documents\visual studio 2010\Projects\conexionBaseDatos\conexionBaseDatos\bin\Debug\conexionBaseDatos.exe
+c:\users\umantram\documents\visual studio 2010\Projects\conexionBaseDatos\conexionBaseDatos\bin\Debug\conexionBaseDatos.pdb
+c:\users\umantram\documents\visual studio 2010\Projects\conexionBaseDatos\conexionBaseDatos\obj\x86\Debug\conexionBaseDatos.exe
+c:\users\umantram\documents\visual studio 2010\Projects\conexionBaseDatos\conexionBaseDatos\obj\x86\Debug\conexionBaseDatos.pdb
+c:\users\umantram\documents\visual studio 2010\Projects\conexionBaseDatos\conexionBaseDatos\obj\x86\Debug\conexionBaseDatos.Form1.resources
