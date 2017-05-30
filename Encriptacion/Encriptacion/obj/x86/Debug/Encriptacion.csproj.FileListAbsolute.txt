@@ -1,0 +1,5 @@
+c:\users\netumantram\documents\visual studio 2010\Projects\Encriptacion\Encriptacion\bin\Debug\Encriptacion.exe
+c:\users\netumantram\documents\visual studio 2010\Projects\Encriptacion\Encriptacion\bin\Debug\Encriptacion.pdb
+c:\users\netumantram\documents\visual studio 2010\Projects\Encriptacion\Encriptacion\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\netumantram\documents\visual studio 2010\Projects\Encriptacion\Encriptacion\obj\x86\Debug\Encriptacion.exe
+c:\users\netumantram\documents\visual studio 2010\Projects\Encriptacion\Encriptacion\obj\x86\Debug\Encriptacion.pdb
